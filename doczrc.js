@@ -2,6 +2,6 @@ export default {
   title: "Athena Company Project Charter",
   description: "Mobile Application Interface Upgrade",
   ignore: ["README.md"],
-  dest: '/project-charter',
+  dest: '/dist',
   base: '/docz',
 };
